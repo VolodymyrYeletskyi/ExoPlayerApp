@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ExoPlayerApp</string>
+    <string name="player">Player</string>
+    <string name="video">Video</string>
+    <string name="channel_name">Channel</string>
+    <string name="channel_description">Description</string>
+
+    <string name="video1">BigBuckBunny</string>
+    <string name="video2">ElephantsDream</string>
+    <string name="video3">ForBiggerBlazes</string>
+    <string name="video4">ForBiggerEscapes</string>
+    <string name="video5">ForBiggerFun</string>
+    <string name="video6">ForBiggerJoyrides</string>
+    <string name="video7">ForBiggerMeltdowns</string>
+    <string name="video8">Sintel</string>
+    <string name="video9">SubaruOutbackOnStreetAndDirt</string>
+    <string name="video10">TearsOfSteel</string>
+    <string name="video11">VolkswagenGTIReview</string>
+    <string name="video12">WeAreGoingOnBullrun</string>
+    <string name="video13">WhatCarCanYouGetForAGrand</string>
+</resources>
